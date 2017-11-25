@@ -1,0 +1,575 @@
+
+Token to check = main 
+Top of stack = program
+
+Token to check = main 
+Top of stack = main
+
+Token to check = ( 
+Top of stack = (
+
+Token to check = ) 
+Top of stack = )
+
+Token to check = { 
+Top of stack = {
+
+Token to check = int 
+Top of stack = statements
+
+Token to check = int 
+Top of stack = statements'
+
+Token to check = int 
+Top of stack = astatement
+
+Token to check = int 
+Top of stack = declaration
+
+Token to check = int 
+Top of stack = datatypes
+
+Token to check = int 
+Top of stack = int
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = int 
+Top of stack = statements'
+
+Token to check = int 
+Top of stack = astatement
+
+Token to check = int 
+Top of stack = declaration
+
+Token to check = int 
+Top of stack = datatypes
+
+Token to check = int 
+Top of stack = int
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = read 
+Top of stack = statements'
+
+Token to check = read 
+Top of stack = astatement
+
+Token to check = read 
+Top of stack = readstruct
+
+Token to check = read 
+Top of stack = read
+
+Token to check = ( 
+Top of stack = (
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ) 
+Top of stack = )
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = read 
+Top of stack = statements'
+
+Token to check = read 
+Top of stack = astatement
+
+Token to check = read 
+Top of stack = readstruct
+
+Token to check = read 
+Top of stack = read
+
+Token to check = ( 
+Top of stack = (
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ) 
+Top of stack = )
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = for 
+Top of stack = statements'
+
+Token to check = for 
+Top of stack = astatement
+
+Token to check = for 
+Top of stack = forstruct
+
+Token to check = for 
+Top of stack = for
+
+Token to check = ( 
+Top of stack = (
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = = 
+Top of stack = =
+
+Token to check = numbers 
+Top of stack = expression
+
+Token to check = numbers 
+Top of stack = subexpression
+
+Token to check = numbers 
+Top of stack = term
+
+Token to check = numbers 
+Top of stack = factor
+
+Token to check = numbers 
+Top of stack = numbers
+
+Token to check = ; 
+Top of stack = term'
+
+Token to check = ; 
+Top of stack = subexpression'
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = < 
+Top of stack = <
+
+Token to check = numbers 
+Top of stack = expression
+
+Token to check = numbers 
+Top of stack = subexpression
+
+Token to check = numbers 
+Top of stack = term
+
+Token to check = numbers 
+Top of stack = factor
+
+Token to check = numbers 
+Top of stack = numbers
+
+Token to check = ; 
+Top of stack = term'
+
+Token to check = ; 
+Top of stack = subexpression'
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = = 
+Top of stack = =
+
+Token to check = identifiers 
+Top of stack = expression
+
+Token to check = identifiers 
+Top of stack = subexpression
+
+Token to check = identifiers 
+Top of stack = term
+
+Token to check = identifiers 
+Top of stack = factor
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = + 
+Top of stack = term'
+
+Token to check = + 
+Top of stack = subexpression'
+
+Token to check = + 
+Top of stack = additive
+
+Token to check = + 
+Top of stack = +
+
+Token to check = numbers 
+Top of stack = term
+
+Token to check = numbers 
+Top of stack = factor
+
+Token to check = numbers 
+Top of stack = numbers
+
+Token to check = ) 
+Top of stack = term'
+
+Token to check = ) 
+Top of stack = subexpression'
+
+Token to check = ) 
+Top of stack = )
+
+Token to check = { 
+Top of stack = block
+
+Token to check = { 
+Top of stack = {
+
+Token to check = identifiers 
+Top of stack = statements
+
+Token to check = identifiers 
+Top of stack = statements'
+
+Token to check = identifiers 
+Top of stack = astatement
+
+Token to check = identifiers 
+Top of stack = assignment
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = = 
+Top of stack = =
+
+Token to check = identifiers 
+Top of stack = expression
+
+Token to check = identifiers 
+Top of stack = subexpression
+
+Token to check = identifiers 
+Top of stack = term
+
+Token to check = identifiers 
+Top of stack = factor
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = + 
+Top of stack = term'
+
+Token to check = + 
+Top of stack = subexpression'
+
+Token to check = + 
+Top of stack = additive
+
+Token to check = + 
+Top of stack = +
+
+Token to check = numbers 
+Top of stack = term
+
+Token to check = numbers 
+Top of stack = factor
+
+Token to check = numbers 
+Top of stack = numbers
+
+Token to check = ; 
+Top of stack = term'
+
+Token to check = ; 
+Top of stack = subexpression'
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = int 
+Top of stack = statements'
+
+Token to check = int 
+Top of stack = astatement
+
+Token to check = int 
+Top of stack = declaration
+
+Token to check = int 
+Top of stack = datatypes
+
+Token to check = int 
+Top of stack = int
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = if 
+Top of stack = statements'
+
+Token to check = if 
+Top of stack = astatement
+
+Token to check = if 
+Top of stack = ifstruct
+
+Token to check = if 
+Top of stack = if
+
+Token to check = ( 
+Top of stack = (
+
+Token to check = identifiers 
+Top of stack = expression
+
+Token to check = identifiers 
+Top of stack = subexpression
+
+Token to check = identifiers 
+Top of stack = term
+
+Token to check = identifiers 
+Top of stack = factor
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = > 
+Top of stack = term'
+
+Token to check = > 
+Top of stack = relop
+
+Token to check = > 
+Top of stack = >
+
+Token to check = identifiers 
+Top of stack = factor
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ) 
+Top of stack = term'
+
+Token to check = ) 
+Top of stack = subexpression'
+
+Token to check = ) 
+Top of stack = )
+
+Token to check = { 
+Top of stack = block
+
+Token to check = { 
+Top of stack = {
+
+Token to check = identifiers 
+Top of stack = statements
+
+Token to check = identifiers 
+Top of stack = statements'
+
+Token to check = identifiers 
+Top of stack = astatement
+
+Token to check = identifiers 
+Top of stack = assignment
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = = 
+Top of stack = =
+
+Token to check = identifiers 
+Top of stack = expression
+
+Token to check = identifiers 
+Top of stack = subexpression
+
+Token to check = identifiers 
+Top of stack = term
+
+Token to check = identifiers 
+Top of stack = factor
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = - 
+Top of stack = term'
+
+Token to check = - 
+Top of stack = subexpression'
+
+Token to check = - 
+Top of stack = additive
+
+Token to check = - 
+Top of stack = -
+
+Token to check = numbers 
+Top of stack = term
+
+Token to check = numbers 
+Top of stack = factor
+
+Token to check = numbers 
+Top of stack = numbers
+
+Token to check = ; 
+Top of stack = term'
+
+Token to check = ; 
+Top of stack = subexpression'
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = } 
+Top of stack = statements'
+
+Token to check = } 
+Top of stack = }
+
+Token to check = else 
+Top of stack = elsestruct
+
+Token to check = else 
+Top of stack = else
+
+Token to check = { 
+Top of stack = block
+
+Token to check = { 
+Top of stack = {
+
+Token to check = identifiers 
+Top of stack = statements
+
+Token to check = identifiers 
+Top of stack = statements'
+
+Token to check = identifiers 
+Top of stack = astatement
+
+Token to check = identifiers 
+Top of stack = assignment
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = = 
+Top of stack = =
+
+Token to check = identifiers 
+Top of stack = expression
+
+Token to check = identifiers 
+Top of stack = subexpression
+
+Token to check = identifiers 
+Top of stack = term
+
+Token to check = identifiers 
+Top of stack = factor
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = + 
+Top of stack = term'
+
+Token to check = + 
+Top of stack = subexpression'
+
+Token to check = + 
+Top of stack = additive
+
+Token to check = + 
+Top of stack = +
+
+Token to check = numbers 
+Top of stack = term
+
+Token to check = numbers 
+Top of stack = factor
+
+Token to check = numbers 
+Top of stack = numbers
+
+Token to check = ; 
+Top of stack = term'
+
+Token to check = ; 
+Top of stack = subexpression'
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = } 
+Top of stack = statements'
+
+Token to check = } 
+Top of stack = }
+
+Token to check = } 
+Top of stack = statements'
+
+Token to check = } 
+Top of stack = }
+
+Token to check = write 
+Top of stack = statements'
+
+Token to check = write 
+Top of stack = astatement
+
+Token to check = write 
+Top of stack = writestruct
+
+Token to check = write 
+Top of stack = write
+
+Token to check = ( 
+Top of stack = (
+
+Token to check = identifiers 
+Top of stack = identifiers
+
+Token to check = ) 
+Top of stack = )
+
+Token to check = ; 
+Top of stack = ;
+
+Token to check = } 
+Top of stack = statements'
+
+Token to check = } 
+Top of stack = }
+
+Token to check = $ 
+Top of stack = $
+
+INPUT C PROGRAM IS CORRECT

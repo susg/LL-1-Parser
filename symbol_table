@@ -1,0 +1,89 @@
+CURRENT SCOPE = 3
+
+Name = a
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 3, 7
+Referenced in : 13, 7
+
+Name = b
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 4, 7
+Referenced in : 11, 7
+
+Name = c
+Type = Identifier
+Data type = int
+Scope = 2
+Position = 10, 8
+Referenced in : 13, 8
+
+
+CURRENT SCOPE = 3
+
+Name = a
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 3, 7
+Referenced in : 17, 7
+
+Name = b
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 4, 7
+Referenced in : 11, 7
+
+Name = c
+Type = Identifier
+Data type = int
+Scope = 2
+Position = 10, 8
+Referenced in : 17, 8
+
+
+CURRENT SCOPE = 2
+
+Name = a
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 3, 7
+Referenced in : 17, 7
+
+Name = b
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 4, 7
+Referenced in : 11, 7
+
+Name = c
+Type = Identifier
+Data type = int
+Scope = 2
+Position = 10, 8
+Referenced in : 17, 8
+
+
+CURRENT SCOPE = 1
+
+Name = a
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 3, 7
+Referenced in : 17, 7
+
+Name = b
+Type = Identifier
+Data type = int
+Scope = 1
+Position = 4, 7
+Referenced in : 20, 7
+
+

@@ -1,0 +1,22 @@
+program->main ( ) { statements }
+datatypes->int|float|void
+block->{ statements }
+statements->statements'
+statements'->astatement statements'|Epsilon
+astatement->declaration ;|assignment ;|ifstruct|forstruct|readstruct|writestruct
+declaration->datatypes identifiers
+assignment->identifiers = expression
+ifstruct->if ( expression ) block elsestruct
+elsestruct->else block|Epsilon
+forstruct->for ( identifiers = expression ; identifiers < expression ; identifiers = expression ) block
+expression->subexpression
+relop-><|>
+subexpression->term subexpression'
+subexpression'->additive term subexpression'|Epsilon
+additive->+|-
+term->factor term'
+term'->multiplicative factor term'|relop factor term'|Epsilon
+multiplicative->*|/
+factor->( subexpression )|identifiers|numbers
+readstruct->read ( identifiers ) ;
+writestruct->write ( identifiers ) ;

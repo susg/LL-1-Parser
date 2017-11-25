@@ -1,0 +1,21 @@
+main ( ) 
+{ 
+int identifiers ; 
+int identifiers ; 
+read ( identifiers ) ; 
+read ( identifiers ) ; 
+for ( identifiers = numbers ; identifiers < numbers ; identifiers = identifiers + numbers ) 
+{ 
+identifiers = identifiers + numbers ; 
+int identifiers ; 
+if ( identifiers > identifiers ) 
+{ 
+identifiers = identifiers - numbers ; 
+} 
+else 
+{ 
+identifiers = identifiers + numbers ; 
+} 
+} 
+write ( identifiers ) ; 
+} 
